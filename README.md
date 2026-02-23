@@ -3,7 +3,7 @@
 
 A high-speed Telegram music/media bot built for searching tracks, selecting quality/format, downloading with `yt-dlp`, and delivering files with automatic cleanup.
 
-[![IR Read Persian Translation](https://img.shields.io/badge/IR-Read%20Persian%20Translation-0A2540?style=for-the-badge)](#persian-guide)
+[![Persian Description](https://img.shields.io/badge/Read-Persian%20Description-0A66C2?style=for-the-badge)](#persian-description)
 
 ## What This Bot Does 🔥
 - Searches music (especially SoundCloud-style results) with pagination
@@ -83,7 +83,7 @@ Deliver a fast, practical, and scalable Telegram music/media experience with cle
 
 ---
 
-<a id="persian-guide"></a>
+<a id="persian-description"></a>
 # 🇮🇷 راهنمای فارسی (ترجمه کامل)
 
 [![US Back to English](https://img.shields.io/badge/US-Back%20to%20English-0A2540?style=for-the-badge)](#english-guide)
@@ -167,5 +167,6 @@ python main2.py
 
 ## هدف پروژه 🎯
 ارائه یک تجربه سریع، کاربردی و مقیاس‌پذیر از موزیک/رسانه در تلگرام با UX شفاف و رفتار عملیاتی پایدار.
+
 
 
