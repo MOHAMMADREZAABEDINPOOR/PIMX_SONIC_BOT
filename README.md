@@ -1,6 +1,9 @@
-﻿# PIMX SONIC BOT ⚡🎵🤖
+﻿<a id="english-guide"></a>
+# PIMX SONIC BOT ⚡🎵🤖
 
 A high-speed Telegram music/media bot built for searching tracks, selecting quality/format, downloading with `yt-dlp`, and delivering files with automatic cleanup.
+
+[![IR Read Persian Translation](https://img.shields.io/badge/IR-Read%20Persian%20Translation-0A2540?style=for-the-badge)](#persian-guide)
 
 ## What This Bot Does 🔥
 - Searches music (especially SoundCloud-style results) with pagination
@@ -78,8 +81,12 @@ python main2.py
 ## Project Goal 🎯
 Deliver a fast, practical, and scalable Telegram music/media experience with clear UX and stable operational behavior.
 
-<details>
-<summary><strong>🇮🇷 نمایش توضیحات فارسی (ترجمه دقیق)</strong></summary>
+---
+
+<a id="persian-guide"></a>
+# 🇮🇷 راهنمای فارسی (ترجمه کامل)
+
+[![US Back to English](https://img.shields.io/badge/US-Back%20to%20English-0A2540?style=for-the-badge)](#english-guide)
 
 # ربات PIMX SONIC ⚡🎵🤖
 
@@ -161,4 +168,4 @@ python main2.py
 ## هدف پروژه 🎯
 ارائه یک تجربه سریع، کاربردی و مقیاس‌پذیر از موزیک/رسانه در تلگرام با UX شفاف و رفتار عملیاتی پایدار.
 
-</details>
+
