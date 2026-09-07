@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=PIMX_SONIC_BOT&fontSize=40&fontAlignY=35&desc=%E2%9A%A1%20High-Speed%20Telegram%20Music%2C%20Audio%20%26%20Media%20Engine&descFontSize=16&descAlignY=62" alt="PIMX_SONIC_BOT Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=PIMX_SONIC_BOT&fontSize=40&fontAlignY=35&desc=%F0%9F%9B%91%20Archived%20Open-Source%20Music%20Extraction%20Daemon&descFontSize=16&descAlignY=62" alt="PIMX_SONIC_BOT Banner" width="100%" />
 
 <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=780&lines=High-Speed+Multi-Source+Audio+Downloader+(YouTube%2C+SoundCloud%2C+Spotify);Automated+yt-dlp+Extraction+with+FFmpeg+320kbps+MP3+Transcoding;Embedded+Album+Cover+Art%2C+ID3+Tags+%26+Metadata+Synchronization;Automated+Disk+Cleanup+Daemon+Purging+Temporary+Files+Post-Delivery;Asynchronous+Python+3.10%2B+Engine+Powered+by+python-telegram-bot+v20%2B;Bilingual+Interactive+Interface+with+Persian+(jdatetime)+Date+Tracking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=780&lines=Project+Status%3A+Inactive+%2F+Archived+Media+Extraction+Daemon;High-Speed+Multi-Source+Audio+Downloader+(YouTube%2C+SoundCloud%2C+Spotify);Automated+yt-dlp+Extraction+with+FFmpeg+320kbps+MP3+Transcoding;Embedded+Album+Cover+Art%2C+ID3+Tags+%26+Metadata+Synchronization;Automated+Disk+Cleanup+Daemon+Purging+Temporary+Files+Post-Delivery;Asynchronous+Python+3.10%2B+Engine+Powered+by+python-telegram-bot+v20%2B;Bilingual+Interactive+Interface+with+Persian+(jdatetime)+Date+Tracking" alt="Typing SVG" />
 </a>
 
 <br/>
 
+[![Project Status: Inactive / Archived](https://img.shields.io/badge/Status-Inactive%20%7C%20Archived-critical?style=for-the-badge&logo=archive)](https://github.com/MOHAMMADREZAABEDINPOOR)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![yt-dlp](https://img.shields.io/badge/Downloader-yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/yt-dlp/yt-dlp)
@@ -29,6 +30,12 @@
 </div>
 
 ---
+
+> [!CAUTION]
+> ### 🛑 Project Status: Inactive / Archived (پروژه غیرفعال و بایگانی‌شده)
+> **Notice**: This repository is currently **inactive** and preserved as an archived open-source audio extraction reference. The live Telegram bot is offline.
+>
+> **توجه مهم**: این پروژه در حال حاضر **کاملاً غیرفعال** است و سرور یا ربات فعالی روی آن اجرا نمی‌شود. این ریپازیتوری صرفاً به عنوان آرشیو فنی سورس‌کد حفظ گردیده است.
 
 ## ⚡ Project Overview
 
