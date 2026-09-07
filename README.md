@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=PIMX_SONIC_BOT&fontSize=40&fontAlignY=35&desc=%F0%9F%9B%91%20Archived%20Open-Source%20Music%20Extraction%20Daemon&descFontSize=16&descAlignY=62" alt="PIMX_SONIC_BOT Banner" width="100%" />
+<img src="./assets/banner.svg" alt="PIMX_SONIC_BOT 3D Banner" width="100%" />
 
 <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=780&lines=Project+Status%3A+Inactive+%2F+Archived+Media+Extraction+Daemon;High-Speed+Multi-Source+Audio+Downloader+(YouTube%2C+SoundCloud%2C+Spotify);Automated+yt-dlp+Extraction+with+FFmpeg+320kbps+MP3+Transcoding;Embedded+Album+Cover+Art%2C+ID3+Tags+%26+Metadata+Synchronization;Automated+Disk+Cleanup+Daemon+Purging+Temporary+Files+Post-Delivery;Asynchronous+Python+3.10%2B+Engine+Powered+by+python-telegram-bot+v20%2B;Bilingual+Interactive+Interface+with+Persian+(jdatetime)+Date+Tracking" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 [![yt-dlp](https://img.shields.io/badge/Downloader-yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/yt-dlp/yt-dlp)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-v20+-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
 [![SQLite](https://img.shields.io/badge/Database-SQLite3_WAL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Read in Persian](https://img.shields.io/badge/مطالعه_به_فارسی-Persian_README-008080?style=for-the-badge)](#-بخش-فوقالعاده-مفصل-و-جامع-به-زبان-فارسی-persian-documentation)
+[![Read in Persian](https://img.shields.io/badge/مطالعه_به_فارسی-Persian_README-008080?style=for-the-badge)](#persian-documentation)
 
 <p align="center">
   <b>PIMX_SONIC_BOT</b> is a high-velocity Telegram audio and media extraction daemon built with Python 3.10+, <code>python-telegram-bot</code> v20+, and <code>yt-dlp</code>. Engineered for high-throughput music discovery, PIMX_SONIC_BOT extracts studio-quality 320kbps MP3 audio from YouTube, SoundCloud, and social links, embeds genuine ID3 metadata and high-res cover art, and automatically purges downloaded cache to maintain zero server disk bloat.
@@ -24,7 +24,7 @@
 [Directory Anatomy](#-exhaustive-directory--file-anatomy) •
 [Transcoding Pipeline](#-audio-transcoding--metadata-pipeline) •
 [Quick Start](#-quick-start--installation) •
-[توضیحات فارسی](#-بخش-فوقالعاده-مفصل-و-جامع-به-زبان-فارسی-persian-documentation) •
+[توضیحات فارسی](#persian-documentation) •
 [License](#-copyleft-license--legal-attribution)
 
 </div>
@@ -82,7 +82,8 @@ python main2.py
 
 ---
 
-## 🇮🇷 بخش فوق‌العاده مفصل و جامع به زبان فارسی (Persian Documentation)
+## Persian Documentation
+### 🇮🇷 مستندات فوق‌العاده مفصل، جامع و فنی به زبان فارسی
 
 ### ۱. معرفی ربات دانلود موسیقی PIMX_SONIC_BOT
 ربات **PIMX_SONIC_BOT** یک دستیار هوشمند و فوق‌العاده پرسرعت در تلگرام برای جستجو، استخراج و دانلود قطعات موسیقی با بالاترین کیفیت ممکن (۳۲۰ کیلوبیت بر ثانیه) از یوتیوب، ساندکلاد و پلتفرم‌های پخش آنلاین است. این ربات با ترکیب فریم‌ورک ناهمگام **python-telegram-bot v20+** و کتابخانه قدرتمند **yt-dlp**، تجربه دانلود موزیک را به سریع‌ترین شکل ممکن تبدیل می‌کند.
@@ -102,6 +103,6 @@ Distributed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" alt="Footer" width="100%" />
+<img src="./assets/footer.svg" alt="PIMX_SONIC_BOT 3D Footer" width="100%" />
 <sub>Architected by <a href="https://github.com/MOHAMMADREZAABEDINPOOR"><b>MOHAMMADREZA ABEDINPOOR</b></a>. If PIMX_SONIC_BOT powers your music library, consider giving a ⭐!</sub>
 </div>
